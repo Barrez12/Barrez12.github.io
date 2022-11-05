@@ -4,7 +4,7 @@ url: "http://Barrez12.github.io/"    # the protocol and hostname of your site, e
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
- This my website
+ This my website 
 
 # Your information
 email: felix.ndonfack@aims.ac.rw
